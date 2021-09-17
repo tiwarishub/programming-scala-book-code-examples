@@ -1,5 +1,5 @@
 # Programming Scala, 3rd Edition
-
+ 
 ## README for the Code Examples
 
 * [Dean Wampler](mailto:programming.scala@gmail.com)
